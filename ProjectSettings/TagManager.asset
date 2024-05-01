@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Borer
+  - Ground
+  - Border
+  - key
+  - door
+  - powerup
+  - Border2
+  - door2
+  - Key2
+  - Border3
+  - door3
+  - key3
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - platform
+  - Water
+  - UI
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: puzzule
+    uniqueID: 1097120921
+    locked: 0
+  - name: answers
+    uniqueID: 4181291385
+    locked: 0
